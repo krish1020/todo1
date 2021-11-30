@@ -1,0 +1,11 @@
+.banner
+{background-color:pink;
+width:80%;
+height:100px;
+margin-bottom:50px;
+}
+
+.banner-text
+{top:40%;
+transform:transform;
+}
